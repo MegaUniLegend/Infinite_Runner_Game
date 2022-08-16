@@ -58,6 +58,7 @@ function setup() {
     cloudgrp = createGroup();
 
     score = 0;
+    touches = [];
     moosic.play();
 }
 
